@@ -1,0 +1,8 @@
+{
+    "port": 8000,
+    "jwtSecret": "key that I won't tell you",
+    "mongoUri": "mongodb+srv://aisc:021263@cluster0-olkqr.azure.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:3000"
+  }
+
+  
